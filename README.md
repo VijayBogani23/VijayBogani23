@@ -1,5 +1,7 @@
 # 👨🏻‍💻 About Me:
-😎 I am a Data Analyst with passion for Machine Learning and AI<br>📬 Shoot me an Email at vijaysai.data@gmail.com or add me in Linkdien at https://www.linkedin.com/in/vijay-bogani-609035216/
+😎 I am a Data Engineer with passion for Machine Learning and AI<br>
+📬 Shoot me an Email at vijaysai.data@gmail.com 
+Linkdien at https://www.linkedin.com/in/vijay-bogani-609035216/
 
 
 ## 🌐 Socials:
